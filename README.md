@@ -1,7 +1,8 @@
 <h1>🚨⚽ The Premier League is Back! ⚽🚨</h1>
 With the return of the Premier League 2023/2024, I decided to dive into the numbers and prepare a full report analyzing:
-📊 Match schedules
-👥 Attendance trends
+<br>
+📊 Match schedules<br>
+👥 Attendance trends<br>
 🏆 Top 6 teams vs. other clubs
 <h2>🔎 Key Insights from the analysis:</h2> 
 <li>Attendance peaks in January, dips in November & March.</li>
